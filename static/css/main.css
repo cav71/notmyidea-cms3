@@ -179,7 +179,8 @@ img.left, figure.left {float: right; margin: 0 0 2em 2em;}
 		font-size: 1.143em;
 		height: 40px;
 		line-height: 30px;
-		margin: 0 auto 2em auto;
+		/* margin: 0 auto 2em auto; */
+		margin: 1em 10px 2em 7%;
 		padding: 0;
 		width: 90%;
 		
