@@ -424,3 +424,21 @@ li:last-child .hentry, #content > .hentry {border: 0; margin: 0;}
 	
 	#add-comment input[type='submit'] {float: right; margin: 0 .5em;}
 	#add-comment * {margin-bottom: .5em;}
+
+
+/** My **/
+#main-panel > div:nth-child(1) { 
+  flex: 70%;
+  padding: 10px;
+  height: 300px;
+  background-color:#aaa;
+  border: green solid 1px;
+}
+#main-panel > div:nth-child(2) { 
+  flex: 10em;
+  padding: 10px;
+  height: 300px;
+  background-color:#bbb;
+  border: yellow solid 1px ;
+  border-radius: 25px;
+}
